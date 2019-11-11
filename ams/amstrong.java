@@ -17,6 +17,7 @@ for(int n=1;n<=1000;n++){
 	if(n==j){
 		System.out.println(n);
 	}
+System.out.println("File has been modified");
 }
 	}
 
